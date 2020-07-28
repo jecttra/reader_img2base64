@@ -1,0 +1,16 @@
+{
+  "name": "downloadimage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "downloadImage.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "glob": "^7.1.6",
+    "node-html-parser": "^1.2.20",
+    "rxjs": "^6.6.0"
+  }
+}
